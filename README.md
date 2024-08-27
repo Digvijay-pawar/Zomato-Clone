@@ -1,4 +1,4 @@
-# Zomato-Clone
+# Zomato Front-End Clone
 
 Technology Used:
  1. ReactJs
